@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlParser", "SqlParser.csproj", "{34432E26-166A-4A26-8116-248A96C0C921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlParserSharp", "SqlParserSharp.csproj", "{34432E26-166A-4A26-8116-248A96C0C921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
