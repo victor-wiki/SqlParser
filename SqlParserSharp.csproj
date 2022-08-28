@@ -7,9 +7,10 @@
     <Company />
     <Product />
     <Authors>Victor-wiki</Authors>
-    <Description>Parse sql using antrl(https://github.com/antlr/grammars-v4).</Description>
+    <Description>Parse sql using antlr(https://github.com/antlr/grammars-v4).</Description>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/victor-wiki/SqlParser</PackageProjectUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
