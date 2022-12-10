@@ -10,9 +10,10 @@
     <Description>Parse sql using antlr(https://github.com/antlr/grammars-v4).</Description>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/victor-wiki/SqlParser</PackageProjectUrl>
-    <Version>2.0.0</Version>
-    <AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <PackageReleaseNotes>upgrade antlr to v4.10 and add PostgreSql.</PackageReleaseNotes>
+    <Version>2.1.0</Version>
+    <AssemblyVersion>2.1.0</AssemblyVersion>
+    <PackageReleaseNotes>Add Sqlite parser.</PackageReleaseNotes>
+    <FileVersion>2.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
